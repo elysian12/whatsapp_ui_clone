@@ -1,16 +1,19 @@
-# whatsapp_clone
+# WhatsApp UI Clone
 
 A new Flutter project.
 
-## Getting Started
+## Preview :
 
-This project is a starting point for a Flutter application.
+![Image here](assets/images/preview.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Description : 
+This a whatsapp ui clone made using Flutter and Dart.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact me :
+
+Instagram : [Click](https://www.instagram.com/amanasr7071/)
+
+LinkedIn : [Click](https://www.linkedin.com/in/aman-singh-elysian12)
+
+Youtube : [Click](https://www.youtube.com/channel/UCeUlDJtyQj4Y61MOc0V-aNg)
